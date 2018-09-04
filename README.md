@@ -1,6 +1,6 @@
 # spring-boot-james-smtp-server
 
-Simple SMTP Server using James and Spring Boot which just logs sender, recipient and size for every message. 
+Simple SMTP Server using Apache James (Netty) and Spring Boot which just logs sender, recipient and size for every message. 
 It is very easy to implement your use an existing Apache James Hook or implement your own Hook. 
 
 ## Run
